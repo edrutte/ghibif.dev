@@ -2,6 +2,5 @@ theme: jekyll-theme-minimal
 show_downloads: false
 title: "Evan Ruttenberg"
 github:
-  site:
-    is_project_page: false
-    is_user_page: true
+  is_project_page: false
+  is_user_page: true
