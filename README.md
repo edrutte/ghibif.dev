@@ -1,6 +1,6 @@
 # About Me
-Hi, I'm Evan. I am currently seeking a co-op for late May to August 2022.
-Please take a look at my resume [here](ResumeERuttenberg.pdf)
+Hi, I'm Evan. I am currently a student at the Rochester Institute of Technology.
+My resume is [here](ResumeERuttenberg.pdf)
 
 ## Projects
 Some examples of things I have worked on are:
