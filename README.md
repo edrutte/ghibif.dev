@@ -1,5 +1,5 @@
 # About Me
-Hi, I'm Evan. I am currently a student at the Rochester Institute of Technology.
+Hi, I'm Evan. I have an MS in Computer Engineering from Rochester Institute of Technology.
 My resume is [here](ResumeERuttenberg.pdf)
 
 ## Projects
